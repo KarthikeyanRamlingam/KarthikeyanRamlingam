@@ -1,9 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Karthik
-### 👨‍💻 About Me
+Hey, I'm Karthik 👋
+Computer Science Student • Java Developer • AI Enthusiast
 
-A passionate Software Developer focused on building scalable, user-friendly web applications and exploring AI/ML technologies. Skilled in Java, Spring Boot, React.js, JavaScript, Python, REST APIs, and MySQL, with hands-on experience developing full-stack and AI-powered projects. I enjoy solving problems, learning new technologies, and turning ideas into reliable software solutions. . An avid learner and explorer, I'm always seeking new opportunities to grow.
+I enjoy building useful software, experimenting with AI, and learning how systems work under the hood.
+
+Currently focused on Java, Spring Boot, Full-Stack Development, DSA & AI.
 
 ---
 
@@ -24,11 +26,3 @@ A passionate Software Developer focused on building scalable, user-friendly web 
 </p>
 
 ---
-
-<div align="center">
-
-**`Build • Learn • Repeat 🚀`**
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
-
-</div>
