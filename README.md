@@ -18,8 +18,6 @@ A passionate Software Developer focused on building scalable, user-friendly web 
 ### 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-&nbsp;
 <a href="https://www.linkedin.com/in/karthikeyan-r-442654349"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 &nbsp;
 <a href="mailto:karthikeyanmrk2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
