@@ -1,22 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Karthik
-
-### 💻 Developer • AI Enthusiast • Security Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Java+%7C+Spring+Boot+%7C+React;Building+%26+Learning+Every+Day+🚀;Exploring+AI+%26+Cybersecurity+🔐" />
-
-</div>
-
 ---
-
 ### 👨‍💻 About Me
 
-> 🎓 CS Student
-> ☕ Java & Spring Boot Developer
-> 🤖 Exploring AI/ML
-> 🔐 Interested in Cybersecurity
-> 🚀 Turning ideas into projects
+A passionate Software Developer focused on building scalable, user-friendly web applications and exploring AI/ML technologies. Skilled in Java, Spring Boot, React.js, JavaScript, Python, REST APIs, and MySQL, with hands-on experience developing full-stack and AI-powered projects. I enjoy solving problems, learning new technologies, and turning ideas into reliable software solutions. . An avid learner and explorer, I'm always seeking new opportunities to grow.
 
 ---
 
