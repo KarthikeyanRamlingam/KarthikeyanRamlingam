@@ -1,12 +1,14 @@
 <div align="center">
 
-Hey, I'm Karthik 👋
-Computer Science Student • Java Developer • AI Enthusiast
+# Hey, I'm Karthik 👋
 
-I enjoy building useful software, experimenting with AI, and learning how systems work under the hood.
+### 💻 Computer Science Student · ☕ Java Developer · 🤖 AI Enthusiast
 
-Currently focused on Java, Spring Boot, Full-Stack Development, DSA & AI.
+**I build useful software, explore AI, and love understanding how things work under the hood.**
 
+*Currently exploring* **Java · Spring Boot · Full-Stack Development · DSA · AI**
+
+</div>
 ---
 
 ### 🛠️ Tech Stack
