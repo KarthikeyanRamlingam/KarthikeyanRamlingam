@@ -42,7 +42,7 @@ Currently focused on **Java, Spring Boot, Full-Stack Development, DSA & AI.**
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyanRamalingam&show_icons=true&hide_border=true&theme=transparent" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160"/>
 </p>
 
