@@ -1,61 +1,59 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">Full-Stack Java Developer</h3>
+# Hey, I'm Karthik 👋
+
+### `Computer Science Student` • `Java Developer` • `AI & Security Enthusiast`
+
+I enjoy building **useful software, experimenting with AI, and learning how systems work under the hood.**
+
+Currently focused on **Java, Spring Boot, Full-Stack Development, DSA & AI.**
+
+---
+
+### 🛠️ Tech I Work With
+
+**Languages**
+`Java` `Python` `JavaScript` `SQL`
+
+**Development**
+`Spring Boot` `React` `Node.js` `Tailwind CSS`
+
+**AI / ML**
+`PyTorch` `TensorFlow` `Hugging Face`
+
+**Tools**
+`Git` `GitHub` `Docker` `VS Code`
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **SmartShop** — Full-stack e-commerce application
+🔹 **Pixpop AI** — AI-powered image generation
+🔹 **Deepfake Detection** — ML-based deepfake detection system
+🔹 **Cross-Chain Yield Optimizer** — DeFi & blockchain project
+
+---
+
+### 🌱 Currently Learning
+
+`DSA` → `Spring Security` → `AI Agents` → `Cybersecurity`
+
+---
+
+### 📊 GitHub
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160"/>
 </p>
 
-<br>
+---
 
-### 👨‍💻 About Me
+### 🤝 Connect With Me
 
-Full-stack Java developer who enjoys turning messy processes into clean, working systems.
+[LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/YOUR_USERNAME)
 
-- 🔭 Currently building **a Human Resource Management System** with Spring Boot, React & MySQL
-- 🌱 Currently exploring **Spring Security, microservices & Docker**
-- 🤝 Open to collaborating on **full-stack Java projects**
-- 💬 Happy to talk about **Java · Spring Boot · React**
-- 📫 Reach me at **[email/LinkedIn]**
+---
 
-<br>
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <i>“Build something. Learn something. Repeat.”</i>
 </p>
-
-<br>
-
-### 📌 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/yourusername/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=default" />
-  </a>
-  <a href="https://github.com/yourusername/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=default" />
-  </a>
-</p>
-
-<br>
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" />
-</p>
-
-<br>
-
-<p align="center"><i>Thanks for stopping by! ⭐ the repos you find interesting.</i></p>
